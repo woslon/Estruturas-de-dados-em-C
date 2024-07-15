@@ -6,7 +6,7 @@ int main (){
 
 //woslon dias pinho
 /*meu programa coloca na tela  a frase : vou aprender a
- programar na linguagem c++, com tudo cada palavra será
+ programar na linguagem c++ , com tudo cada palavra será
  exibida em uma unica linha  através da inserção de quebra de linhas*/
 
 cout<< "vou" <<"\n"
